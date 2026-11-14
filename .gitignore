@@ -1,7 +1,7 @@
 # Jupyter
 .ipynb_checkpoints/
 
-# Environments and secrets
+# Environments
 .venv/
 venv/
 .env
