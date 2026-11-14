@@ -77,7 +77,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/tbi_mortality_prediction.ipynb
 ```
 
-Tested with Python 3.12.12
+Tested with Python 3.12
 
 ## Limitations and next steps
 
